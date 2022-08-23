@@ -2,5 +2,5 @@
 
 Repositório criado para o primeiro Desafio Dio Git-GitHub
 
-## Links uteis
+## Links úteis
 Sintaze básica Markdown Guide - https://www.markdownguide.org/
