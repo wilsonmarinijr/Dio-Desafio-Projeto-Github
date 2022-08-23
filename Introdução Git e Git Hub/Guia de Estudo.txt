@@ -1,1 +1,10 @@
-﻿Dados sobre Git e Git Hub
+Dados sobre Projeto Git e Git Hub
+https://web.dio.me/home
+
+- Criação de Repositório para inserção/alteração de arquivos locais e remotos
+
+- Utilização de comandos Git para a alterações locais de pastas e arquivos.
+
+- Utilização da conta no Github para compartilhar o repositório.
+
+- Manter atualizados os 2 locais de repositórios
