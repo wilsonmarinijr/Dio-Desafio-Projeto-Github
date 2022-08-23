@@ -1,5 +1,6 @@
-# Dio-desafio-github-primeiro_repositorio
-Primeiro Desafio Dio Git-GitHub
+# Desafio de projeto para git-github-Dio
 
-Links uteis
-https://www.markdownguide.org/
+Repositório criado para o primeiro Desafio Dio Git-GitHub
+
+## Links uteis
+Sintaze básica Markdown Guide - https://www.markdownguide.org/
